@@ -3850,5 +3850,7 @@
   "I don't know Apple's endgame for the Fn/Globe key–or if Apple does": "我不知道苹果对 Fn/Globe 键的最终结局，或者苹果是否知道",
   "FreeBSD 14.4-RELEASE Announcement": "FreeBSD 14.4-RELEASE 公告",
   "Iran's attacks on Amazon data centers in UAE, Bahrain signal a new kind of war": "伊朗对阿联酋和巴林亚马逊数据中心的袭击标志着一场新的战争",
-  "Avoiding temptation beats building willpower": "避免诱惑胜过增强意志力"
+  "Avoiding temptation beats building willpower": "避免诱惑胜过增强意志力",
+  "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor": "两年的 Emacs Solo：35 个模块、零外部包和全面重构",
+  "The Cost of 'Lightweight' Frameworks: From Tauri to Native Rust": "“轻量级”框架的成本：从 Tauri 到 Native Rust"
 }
