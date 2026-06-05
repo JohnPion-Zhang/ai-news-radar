@@ -12223,5 +12223,14 @@
   "Migrating a Zola blog from Markdown to Org-mode": "将 Zola 博客从 Markdown 迁移到 Org 模式",
   "Common Lisp bindings for brotli compression": "用于 brotli 压缩的 Common Lisp 绑定",
   "Blk – text navigation on your terms (Emacs)": "Blk – 根据您的条件进行文本导航 (Emacs)",
-  "Emacs with a native Metal rendering back end (macOS)": "具有原生 Metal 渲染后端的 Emacs (macOS)"
+  "Emacs with a native Metal rendering back end (macOS)": "具有原生 Metal 渲染后端的 Emacs (macOS)",
+  "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"": "Linux 上华硕 ZenVision Lid OLED 的逆向工程用户空间驱动程序”",
+  "Meta enables adb on deprecated Portal devices": "Meta 在已弃用的 Portal 设备上启用 adb",
+  "Anthropic calls for top AI labs to weigh slowing or temporarily pausing development, suggesting that self-improving AI systems may soon pose societal risks (Wall Street Journal)": "Anthropic 呼吁顶级人工智能实验室权衡放慢或暂时暂停发展，这表明自我改进的人工智能系统可能很快就会带来社会风险（华尔街日报）",
+  "'We definitely are also analog people': WiiM's CEO talks to us about developing its first soundbar, Dolby Atmos FlexConnect, why it doesn't support Apple AirPlay 2, and balancing digital audio expertise with analog output": "“我们绝对也是模拟人”：WiiM 首席执行官与我们谈论开发其首款条形音箱 Dolby Atmos FlexConnect、为什么它不支持 Apple AirPlay 2，以及平衡数字音频专业知识与模拟输出",
+  "White House will dump $700M of public funds into costly, unreliable coal again": "白宫将再次将 7 亿美元公共资金投入昂贵且不可靠的煤炭",
+  "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition": "伊朗地震震动亚洲和欧洲，加速能源转型",
+  "WSL 2 is getting faster Windows file system access": "WSL 2 的 Windows 文件系统访问速度更快",
+  "Your 401(k) is about to become Elon Musk's exit liquidity": "您的 401(k) 即将成为埃隆·马斯克的退出流动资金",
+  "Machine learning using Clojure, libpython-clj2, and PyTorch": "使用 Clojure、libpython-clj2 和 PyTorch 进行机器学习"
 }
